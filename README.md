@@ -1,4 +1,4 @@
-Thank you to [Dr. Martin Saveski](https://faculty.washington.edu/msaveski/) for creating this template and allowing myself (and many others) to use it for free!
+Thank you to [Dr. Martin Saveski](https://faculty.washington.edu/msaveski/) for creating this template and allowing others to use it for free!
 
 # Martin Saveski's Website
 
